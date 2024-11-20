@@ -9,8 +9,6 @@ Key objectives include:
 - Calculating average order values.
 - Supporting data-driven decision-making.
 
-![Project Overview](images/project-overview.png)
-
 ## Tools and Technologies
 - **SQL**: Used for querying and aggregating sales data.
 - **Power BI**: Used to create dynamic dashboards and visualize insights.
@@ -31,43 +29,39 @@ The Power BI dashboard visualizes:
 
 ### Screenshots
 
-   ![Overall Sales Dashboard](images/overall-sales-dashboard.png)
+   ![1](https://github.com/user-attachments/assets/6b02a47d-9279-43d6-af2b-c3f5dce83fd5)
 
 
-   ![Sales by Month](images/sales-by-month.png)
+   ![2](https://github.com/user-attachments/assets/66048e7d-d188-4f7f-81d6-5677338903ee)
+
 
  
-   ![Top Selling Pizzas](images/top-selling-pizzas.png)
+   ![3](https://github.com/user-attachments/assets/263b32af-6ecd-46b5-a501-cf7f11b749da)
 
 
-   ![Revenue by Pizza Size](images/revenue-by-pizza-size.png)
+   ![model](https://github.com/user-attachments/assets/257f8c6e-7461-4bc2-984c-71a8e2ab576a)
 
-
----
-
-### ** Insights and Findings**
-
-```markdown
 ## Insights and Findings
 This section summarizes the key insights derived from the pizza sales analysis.
 
 ### Key Findings
+
 1. **Sales by Month**:
-   - July recorded the highest sales, with 48,620 orders.
-   - 1,935 additional orders were recorded exclusively in July.
+   - July recorded the highest sales, with **48,620 orders**.
+   - An additional **1,935 orders** were recorded exclusively in July.
 
 2. **Peak Order Time**:
    - The most popular order time is **12:00 PM**, indicating a lunchtime sales surge.
 
 3. **Top Selling Day**:
-   - Monday was the highest-selling day, with 3,096 orders.
+   - Monday was the highest-selling day, with **3,096 orders**.
 
 4. **Popular Pizza Category**:
-   - The "Classic" pizza category accounted for **14,888 orders** out of the total 48,620.
+   - The "Classic" pizza category accounted for **14,888 orders** out of the total **48,620**.
 
 5. **Pizza Size Preferences**:
    - **Large, Small, and Medium pizzas** were the most popular sizes.
-   - X-Large and XX-Large pizzas had minimal sales and could be removed from the menu.
+   - **X-Large and XX-Large pizzas** had minimal sales and could be removed from the menu.
 
 6. **Top Revenue-Generating Pizzas**:
    - Thai Chicken Pizza
@@ -84,7 +78,8 @@ This section summarizes the key insights derived from the pizza sales analysis.
    - Chicken Pesto Pizza
 
 ### Recommendations
-- Focus marketing efforts on the **Classic** pizza category.
+- Focus marketing efforts on the **Classic pizza category**.
 - Offer lunchtime promotions to capitalize on peak ordering times.
-- Review the menu and consider discontinuing underperforming sizes (X-Large and XX-Large).
+- Review the menu and consider discontinuing underperforming sizes (**X-Large and XX-Large**).
+
 
