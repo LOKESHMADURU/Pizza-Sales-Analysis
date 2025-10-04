@@ -34,13 +34,6 @@ The Power BI dashboard visualizes:
 
    ![2](https://github.com/user-attachments/assets/66048e7d-d188-4f7f-81d6-5677338903ee)
 
-
- 
-   ![3](https://github.com/user-attachments/assets/263b32af-6ecd-46b5-a501-cf7f11b749da)
-
-
-   ![model](https://github.com/user-attachments/assets/257f8c6e-7461-4bc2-984c-71a8e2ab576a)
-
 ## Insights and Findings
 This section summarizes the key insights derived from the pizza sales analysis.
 
