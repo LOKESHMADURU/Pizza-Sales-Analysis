@@ -29,7 +29,7 @@ The Power BI dashboard visualizes:
 
 ### Screenshots
 
-   ![1](https://github.com/user-attachments/assets/6b02a47d-9279-43d6-af2b-c3f5dce83fd5)
+   [![1](https://github.com/user-attachments/assets/6b02a47d-9279-43d6-af2b-c3f5dce83fd5)](https://github.com/LOKESHMADURU/Pizza-Sales-Analysis/blob/main/Screenshot%20(324).png)
 
 
    ![2](https://github.com/user-attachments/assets/66048e7d-d188-4f7f-81d6-5677338903ee)
