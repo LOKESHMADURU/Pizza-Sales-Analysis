@@ -29,10 +29,11 @@ The Power BI dashboard visualizes:
 
 ### Screenshots
 
-   [![1](https://github.com/user-attachments/assets/6b02a47d-9279-43d6-af2b-c3f5dce83fd5)](https://github.com/LOKESHMADURU/Pizza-Sales-Analysis/blob/main/Screenshot%20(324).png)
+   <img width="1163" height="523" alt="Screenshot (324)" src="https://github.com/user-attachments/assets/de743654-4613-4e15-99eb-183757452eec" />
 
 
-   ![2](https://github.com/user-attachments/assets/66048e7d-d188-4f7f-81d6-5677338903ee)
+   <img width="1156" height="516" alt="Screenshot (325)" src="https://github.com/user-attachments/assets/2592a886-ffc7-4eb2-8ac2-7089a4260366" />
+
 
 ## Insights and Findings
 This section summarizes the key insights derived from the pizza sales analysis.
